@@ -10,7 +10,7 @@ body{
 img{
     width: 300px;
     margin-left: 50px;
-    filter: drop-shadow(1px 1px 20px #fbbf24);
+    filter: drop-shadow(1px 1px 30px #fbbf24);
     border-radius: 20px;
     overflow: hidden;
 }
@@ -84,4 +84,5 @@ h3{
 }
 ul{
     list-style-type: none;
+
 }
